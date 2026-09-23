@@ -15,3 +15,5 @@ GitHub will show the published URL in the workflow summary and under **Settings 
 https://fegades526-sudo.github.io/Healthify/
 
 The site is static, so any API key placed in `index.js` would be visible to every visitor and could be abused. The public version intentionally leaves the key empty. Connect the assistant through a server-side endpoint or serverless function before enabling it in production, and revoke any key that was previously committed to the repository.
+api key extra
+AQ.Ab8RN6LMv3Wuk6svh_xjCUtmKRPgeuxrf-tS4x6DLI7MARQ5ZA
